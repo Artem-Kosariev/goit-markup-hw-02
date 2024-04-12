@@ -1,0 +1,135 @@
+body {
+    font-family: Roboto, sans-serif;
+    color: #434455;
+    background-color: #FFF;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+.logo {
+    color: #4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.16667;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.logo-part {
+    color: #2E2F42;
+}
+
+
+
+.nav-link {
+    color: #2E2F42;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.2em;
+}
+
+.nav-link :hover,
+.nav-link :focus {
+    color: #404BBF;
+}
+
+.adress {
+    font-style: normal;
+}
+
+.address-link {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.2em;
+}
+
+.address-link :hover,
+.address-link :focus {
+    color: #404BBF
+}
+
+
+.hero-page {
+    background-color: #2E2F42;
+}
+
+.hero-head {
+    color: #FFF;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.07143;
+    letter-spacing: 1.12px;
+
+}
+
+.hero-button {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.64px;
+    cursor: pointer;
+    border-radius: 4px;
+    background: #4D5AE5;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.hero-button :hover,
+.hero-button :focus {
+    background: #404BBF;
+}
+
+.section-1 {
+    background-color: #F4F4FD
+}
+
+.title {
+    color: #2E2F42;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.11111;
+    letter-spacing: 0.72px;
+}
+
+.subtitle {
+    color: #2E2F42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+}
+
+.description {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+
+.down {
+    background-color: #2E2F42;
+}
+
+.whitelogo {
+    color: #F4F4FD;
+}
+
+.down>.description {
+    color: #F4F4FD;
+
+}
