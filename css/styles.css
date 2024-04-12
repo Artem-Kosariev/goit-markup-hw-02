@@ -20,7 +20,7 @@ ol {
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.3em;
     text-transform: uppercase;
 }
 
@@ -39,8 +39,8 @@ ol {
     letter-spacing: 0.2em;
 }
 
-.nav-link :hover,
-.nav-link :focus {
+.nav-link:hover,
+.nav-link:focus {
     color: #404BBF;
 }
 
@@ -55,8 +55,8 @@ ol {
     letter-spacing: 0.2em;
 }
 
-.address-link :hover,
-.address-link :focus {
+.address-link:hover,
+.address-link:focus {
     color: #404BBF
 }
 
@@ -88,8 +88,8 @@ ol {
     background-color: #4D5AE5;
 }
 
-.hero-button :hover,
-.hero-button :focus {
+.hero-button:hover,
+.hero-button:focus {
     background-color: #404BBF;
 }
 
@@ -106,7 +106,7 @@ ol {
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.72px;
     text-align: center;
     text-transform: capitalize;
